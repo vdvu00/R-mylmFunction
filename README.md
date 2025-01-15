@@ -1,2 +1,1 @@
-# R-mylmFunction
-Custom Linear Regression Function in R
+For my Statistical Programming for Biostatisticians course, I created a function in R that runs multiple linear regression using ordinary least squares and linear algebra to replicate the existing linear regression function.
